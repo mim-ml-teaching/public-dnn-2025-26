@@ -21,6 +21,9 @@ Lecture plan:
   * [goldfish-to-shark](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5a-goldfish-to-shark-student-version.ipynb) (adversarial attack)
   * [occlusion](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5b-occlusion-student-version.ipynb) (saliency map)
   * [dataset exploration](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5c-dataset-exploration-student.ipynb)
+* Lab6:
+  * [BatchNorm and ConvNets](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-6-Batchnorm-and-Convnets-student-version.ipynb)
+
 
 # Homeworks – themes & deadlines
 
@@ -33,25 +36,6 @@ Lecture plan:
 * HW4: RL — ~January/February
 
 
-# ML Bootcamp – Introduction to Machine Learning
-*(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*
-
-The bootcamp will take place during the **first 4 weeks of the semester**, on **Mondays and Wednesdays at 18:15 (6:15 PM)** in MiM 3043/44/45 building.
-**Dates:** 6.10, 8.10, 13.10, 15.10, 20.10, 22.10, 27.10, 29.10
-**Instructors:** Michał Krutul, Jan Małaśnicki, Maciej Stefaniak
-
-* Lab1&2: [NumPy & Pandas basics](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_1%262_Numpy_Pandas_student_version.ipynb)
-
-* Lab3: [Linear Regression](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_3_linear_regression_student_version.ipynb)
-
-* Lab4: [Logistic Regression](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_4_logistic_regression_student_version.ipynb)
-
-* Lab4(extra): [Softmax Regression](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_4_softmax_regression_student_version.ipynb)
-
-* Lab5: [Experiment Tracking](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_5_experiment_tracking_student_version.ipynb)
-
-
-
 # Old exams
 
 * [2020-21](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2020-21)
@@ -62,6 +46,7 @@ The bootcamp will take place during the **first 4 weeks of the semester**, on **
 
 <br>
 <hr>
+
 
 # Grading rules
 
@@ -97,4 +82,22 @@ The exam will have two parts:
 **Exam pass**: there will be a free exam pass (with the highest grade) given to some number of students with the top total scores for homeworks (excluding points for lab activity).
 This requires getting the last homework scored earlier, so notify the graders that you aim for the exam pass (we will send a reminder about that when HW4 is announced).
 
+<br>
+<hr>
 
+# ML Bootcamp – Introduction to Machine Learning
+*(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*
+
+The bootcamp will take place during the **first 4 weeks of the semester**, on **Mondays and Wednesdays at 18:15 (6:15 PM)** in MiM 3043/44/45 building.
+**Dates:** 6.10, 8.10, 13.10, 15.10, 20.10, 22.10, 27.10, 29.10
+**Instructors:** Michał Krutul, Jan Małaśnicki, Maciej Stefaniak
+
+* Lab1&2: [NumPy & Pandas basics](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_1%262_Numpy_Pandas_student_version.ipynb)
+
+* Lab3: [Linear Regression](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_3_linear_regression_student_version.ipynb)
+
+* Lab4: [Logistic Regression](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_4_logistic_regression_student_version.ipynb)
+
+* Lab4(extra): [Softmax Regression](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_4_softmax_regression_student_version.ipynb)
+
+* Lab5: [Experiment Tracking](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_5_experiment_tracking_student_version.ipynb)
