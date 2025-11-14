@@ -23,7 +23,9 @@ Lecture plan:
   * [dataset exploration](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5c-dataset-exploration-student.ipynb)
 * Lab6:
   * [BatchNorm and ConvNets](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-6-Batchnorm-and-Convnets-student-version.ipynb)
-* Lab7: [UNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
+* Lab7:
+  * [ResNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb)
+  * [UNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
 
 
 # Homeworks – themes & deadlines
