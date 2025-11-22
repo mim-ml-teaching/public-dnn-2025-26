@@ -26,7 +26,8 @@ Lecture plan:
 * Lab7:
   * [ResNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb)
   * [UNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
-
+* Lab8:
+  * [GAN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
 
 # Homeworks – themes & deadlines
 
@@ -34,9 +35,9 @@ Lecture plan:
 
 * HW1: [Multitask Learning for Geometric Shape Classification and Counting](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_1_multitask_counting_student.ipynb),
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159962), deadline Tuesday 25 XI, 23:59.
-* HW2: Vision, ConvNets — ~December
-* HW3: Natural language processing, Transformer — ~January
-* HW4: RL — ~January/February
+* HW2: Vision, ConvNets — to be announced ~25 XI, deadline 16 XII 23:59.
+* HW3: Natural language processing, Transformer — to be announced in December, deadline ~mid-January.
+* HW4: RL — to be announced ~mid-January, deadline ~end of January.
 
 
 # Old exams
