@@ -28,6 +28,9 @@ Lecture plan:
   * [UNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
 * Lab8:
   * [GAN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
+* Lab9:
+  * [VAE](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-9-VAE-student-version.ipynb)
+  * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/vae.pdf)
 
 # Homeworks – themes & deadlines
 
