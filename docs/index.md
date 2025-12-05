@@ -31,6 +31,9 @@ Lecture plan:
 * Lab9:
   * [VAE](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-9-VAE-student-version.ipynb)
   * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/vae.pdf)
+* Lab10:
+  * [Transformer](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-Transformer-student-version.ipynb)
+  * [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
 
 # Homeworks – themes & deadlines
 
