@@ -34,6 +34,8 @@ Lecture plan:
 * Lab10:
   * [Transformer](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-Transformer-student-version.ipynb)
   * [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
+* Lab11:
+  * [DQN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-11-DQN-student-version.ipynb)
 
 # Homeworks – themes & deadlines
 
@@ -47,8 +49,11 @@ Lecture plan:
 * HW4: Reinforcement learning — to be announced ~mid-January, deadline ~end of January.
 
 
-# Old exams
+# Exam
 
+The exam (both the quiz and programming session parts) will take place on Saturday, February 7th, 10:00-15:00, in the labs (rooms 2041–3045).
+
+### Old exams
 * [2020-21](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2020-21)
 * [2021-22](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2021-22)
 * [2022-23](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2022-23)
