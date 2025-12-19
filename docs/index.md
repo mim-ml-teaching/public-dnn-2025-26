@@ -45,7 +45,8 @@ Lecture plan:
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159962), deadline Tuesday 25 XI, 23:59.
 * HW2: [GradCAM and SAM](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_2_gradcam_and_sam_student.ipynb),
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159965), deadline Tuesday 16 XII, 23:59.
-* HW3: Natural language processing, Transformer — to be announced in December, deadline ~mid-January.
+* HW3: [GPT-OSS-20B Transformer Architecture](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_3_gpt_oss-student.ipynb),
+       [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159967), deadline Tuesday, 13 I, 23:59.
 * HW4: Reinforcement learning — to be announced ~mid-January, deadline ~end of January.
 
 
