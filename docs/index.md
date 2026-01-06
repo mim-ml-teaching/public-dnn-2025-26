@@ -36,6 +36,9 @@ Lecture plan:
   * [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
 * Lab11:
   * [DQN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-11-DQN-student-version.ipynb)
+* Lab12:
+  * [Policy Gradient](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-12-PG-student-version.ipynb)
+
 
 # Homeworks – themes & deadlines
 
