@@ -44,24 +44,27 @@ Lecture plan:
 
 * [Moodle](https://moodle.mimuw.edu.pl/course/view.php?id=2554) for homework submissions and grading
 
-* HW1: [Multitask Learning for Geometric Shape Classification and Counting](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_1_multitask_counting_student.ipynb),
+* HW1 (12.5 pt): [Multitask Learning for Geometric Shape Classification and Counting](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_1_multitask_counting_student.ipynb),
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159962), deadline Tuesday 25 XI, 23:59.
-* HW2: [GradCAM and SAM](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_2_gradcam_and_sam_student.ipynb),
+* HW2 (12.5 pt): [GradCAM and SAM](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_2_gradcam_and_sam_student.ipynb),
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159965), deadline Tuesday 16 XII, 23:59.
-* HW3: [GPT-OSS-20B Transformer Architecture](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_3_gpt_oss-student.ipynb),
+* HW3 (15 pt): [GPT-OSS-20B Transformer Architecture](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_3_gpt_oss-student.ipynb),
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159967), deadline Tuesday, 13 I, 23:59.
-* HW4: Reinforcement learning — to be announced ~mid-January, deadline ~end of January.
+* HW4 (10 pt): Reinforcement learning — to be announced ~mid-January, deadline ~end of January.
 
 
 # Exam
 
-The exam (both the quiz and programming session parts) will take place on Saturday, February 7th, 10:00-15:00, in the labs (rooms 2041–3045).
+The exam (both the quiz and programming session parts) will take place on:
+* first date: Saturday, February 7th, 10:00-15:00, in the labs (rooms 2041–3045).
+* retake: Thursday, February 19th, 9:00-14:00, in the labs (rooms 2042–2044).
 
 ### Old exams
 * [2020-21](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2020-21)
 * [2021-22](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2021-22)
 * [2022-23](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2022-23)
 * [2023-24](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2023-24)
+* [2024-25](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/2024-25)
 
 
 <br>
