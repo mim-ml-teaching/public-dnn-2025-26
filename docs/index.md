@@ -34,11 +34,10 @@ Lecture plan:
 * Lab10:
   * [Transformer](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-Transformer-student-version.ipynb)
   * [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
-* Lab11:
-  * [DQN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-11-DQN-student-version.ipynb)
-* Lab12:
-  * [Policy Gradient](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-12-PG-student-version.ipynb)
-
+* Lab11: [DQN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-11-DQN-student-version.ipynb)
+* Lab12: [Policy Gradient](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-12-PG-student-version.ipynb)
+* Lab13: see [Old exams](#old-exams) below.
+* Lab14 (Wed & Thu groups only): Consultations / more old exams.
 
 # Homeworks – themes & deadlines
 
