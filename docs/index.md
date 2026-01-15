@@ -2,38 +2,21 @@
 
 [Slides & recordings](https://drive.google.com/drive/folders/10w99lp-8kn8r7G58kPuz2t_Ip6KXAMrc)
 
-Lecture plan:
-* 8.10 MM - backprop
-* 15.10 MM - optimizers
-* 22.10 MM - helping SGD
-* 29.11 MM - wrap up
-
-
 # Labs
 
 * Lab1: [linear regression with MSLE, cross-validation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-1-MSLE-student-version.ipynb)
-* Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb)
-    * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation
-* Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
-  * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/softmax-and-cross-entropy.pdf) on softmax, NLL, CE
+* Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb) ([presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation)
+* Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb) ([presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/softmax-and-cross-entropy.pdf) on softmax, NLL, CE)
 * Lab4: [PyTorch](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
 * Lab5:
   * [goldfish-to-shark](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5a-goldfish-to-shark-student-version.ipynb) (adversarial attack)
   * [occlusion](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5b-occlusion-student-version.ipynb) (saliency map)
   * [dataset exploration](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5c-dataset-exploration-student.ipynb)
-* Lab6:
-  * [BatchNorm and ConvNets](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-6-Batchnorm-and-Convnets-student-version.ipynb)
-* Lab7:
-  * [ResNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb)
-  * [UNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
-* Lab8:
-  * [GAN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
-* Lab9:
-  * [VAE](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-9-VAE-student-version.ipynb)
-  * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/vae.pdf)
-* Lab10:
-  * [Transformer](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-Transformer-student-version.ipynb)
-  * [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
+* Lab6: [BatchNorm and ConvNets](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-6-Batchnorm-and-Convnets-student-version.ipynb)
+* Lab7: [ResNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb) and [UNet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
+* Lab8: [GAN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
+* Lab9: [VAE](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-9-VAE-student-version.ipynb) ([presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/vae.pdf))
+* Lab10: [Transformer](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-Transformer-student-version.ipynb) and [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
 * Lab11: [DQN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-11-DQN-student-version.ipynb)
 * Lab12: [Policy Gradient](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-12-PG-student-version.ipynb)
 * Lab13: see [Old exams](#old-exams) below.
@@ -59,7 +42,7 @@ Lecture plan:
 
 The exam (both the quiz and programming session parts) will take place on:
 * first date: Saturday, February 7th, 10:00-15:00, in the labs (rooms 2041–3045).
-* retake: Thursday, February 19th, 9:00-14:00, in the labs (rooms 2042–2044).
+* retake: Thursday, February 19th, <s>9:00-14:00</s> 15:00-20:30, in the labs (rooms 2042–2044).
 
 ### Old exams
 * [2020-21](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2020-21)
@@ -86,7 +69,7 @@ Total: 110 points possible. Grading scale:
 * ≥ 60 points: 3.5
 * ≥ 50 points: 3.0
 
-To pass, you need to pass both the homework and exam parts, which means reaching at least half of the points.
+To pass, you need to pass both the homework and exam parts (≥50% for the homework and ≥50% for the exam as a whole).
 Lower thresholds for grades and for passing may be announced after grading is done.
 
 ## Homework rules
@@ -101,14 +84,16 @@ Late submissions have their score multiplied by 0.6, even if you are late by 10 
 
 ## Exam rules
 The exam will have two parts:
-* Theoretical: quiz with open questions. No materials allowed.
-* Programming session. Materials allowed: code written earlier by yourself; internet for documentation and definitions only. Using code assistants or looking for solutions on the internet is not allowed.
+* Theoretical: quiz with multiple-choice and open questions. No materials allowed.
+* Programming session. Materials allowed: code written earlier by yourself; internet for documentation and definitions only. Using code assistants or looking for solutions on the internet is NOT allowed.
 
-**Exam pass**: there will be a free exam pass (with the highest grade) given to some number of students with the top total scores for homeworks (excluding points for lab activity).
-This requires getting the last homework scored earlier, so notify the graders that you aim for the exam pass (we will send a reminder about that when HW4 is announced).
+**Exam pass**: there will be a free exam pass (with the highest grade) given to some number of students with the top total scores for homeworks (*excluding* points for lab activity).
+This requires submitting the last homework earlier.
 
-<br>
 <hr>
+<br>
+<br>
+<br>
 
 # ML Bootcamp – Introduction to Machine Learning
 *(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*
