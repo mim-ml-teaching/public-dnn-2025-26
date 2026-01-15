@@ -49,7 +49,10 @@ Lecture plan:
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159965), deadline Tuesday 16 XII, 23:59.
 * HW3 (15 pt): [GPT-OSS-20B Transformer Architecture](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_3_gpt_oss-student.ipynb),
        [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159967), deadline Tuesday, 13 I, 23:59.
-* HW4 (10 pt): Reinforcement learning — to be announced ~mid-January, deadline ~end of January.
+* HW4 (10 pt): [DQN Exploration](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_4_dqn_exploration_student.ipynb),
+       [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159969), deadline Friday, 30 I, 23:59.
+       Early deadline (for those aiming for exam pass): Tuesday, 27 I, 23:59.
+
 
 
 # Exam
