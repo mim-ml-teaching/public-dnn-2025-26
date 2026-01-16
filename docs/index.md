@@ -50,7 +50,7 @@ The exam (both the quiz and programming session parts) will take place on:
 * [2022-23](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2022-23)
 * [2023-24](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/exam-2023-24)
 * [2024-25](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/2024-25)
-
+* [Quizzes (theory parts)](https://github.com/mim-ml-teaching/public-dnn-2025-26/tree/main/docs/quizzes-202021-202324.pdf) 2020/21 – 2023/24
 
 <br>
 <hr>
